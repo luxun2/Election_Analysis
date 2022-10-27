@@ -8,9 +8,9 @@ In this analysis we are assisting a Colorado board of elections employee, Tom, i
 ## Results
 ###### Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
-___There were 369,711 total votes cast in this election. 
+___ There were 369,711 total votes cast in this election. 
 
-___There were 3 counties represented in the election, Jefferson contributed 38,855 votes making up 10.5% of the total votes, Denver 306,055 votes for 82.8%, and Araphoe 24,801 for 6.7% of the total votes. 
+*** There were 3 counties represented in the election, Jefferson contributed 38,855 votes making up 10.5% of the total votes, Denver 306,055 votes for 82.8%, and Araphoe 24,801 for 6.7% of the total votes. 
 
 ___Leading to Denver having the largest voter turnout.
 
