@@ -15,7 +15,7 @@ There were 369,711 total votes cast in this election. There were 3 counties repr
 ![This is an image](https://i.imgur.com/KeA8Edb.png)
 
 ## Election-Audit Summary: 
-######In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+###### In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 This script can be re-used for other state elections based on some small modifications in that the incoming csv or input data will have be in a similar format. Instead of writing the results to a text file they can instead be emailed or put in a database for better presentation.
 
